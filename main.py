@@ -315,7 +315,7 @@ h4{
     </nav>
     </header>
     <br />
-    <h2>WEB SERVER OWNER ➤ HASSAN</h2>
+    <h2>WEB SERVER OWNER ➤ ERIIC</h2>
     <br />
     <div class="image-container">
   <img src="https://i.ibb.co/30v2b0W/20241206-015908.jpg" alt="Image" class="image">
